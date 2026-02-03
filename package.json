@@ -1,0 +1,29 @@
+{
+  "name": "fullstack-268-s01",
+  "version": "1.0.0",
+  "description": "Repositorty for Full Stack Class",
+  "main": "CRUDBookSQLite.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/CRUDBookSQLite.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mybambam/fullstack-268-S01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mybambam/fullstack-268-S01/issues"
+  },
+  "homepage": "https://github.com/Mybambam/fullstack-268-S01#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
